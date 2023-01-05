@@ -80741,24 +80741,24 @@ s=this.w
 s.x2$=r
 s.x1$=0
 this.az()},
-E(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g="Your Mobile Number",f=a.K(t.w).f,e=a.K(t.yS)
-e=A.aW("We need your mobile phone number to assign personal offers to your account.",h,h,h,h,(e==null?B.ka:e).w.adE(1.3),h,h)
+E(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=a.K(t.w).f,f=a.K(t.yS)
+f=A.aW("We need your mobile phone number to assign personal offers to your account.",h,h,h,h,(f==null?B.ka:f).w.adE(1.3),h,h)
 s=i.d
-r=A.aW(g,h,h,h,h,h,h,h)
+r=A.aW("Mobile Number",h,h,h,h,h,h,h)
 q=A.aW("Please enter your mobile number.",h,h,h,h,h,h,h)
 p=s===0&&!0
 o=t.p
-p=A.bF(A.a([q,new A.du(new A.al(0,175,0,1/0),A.aDj(p,i.w,A.awY(h,h,h,h,h,h,h,h,!0,h,h,h,h,i.x,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,!1,h,h,h,g,h,h,h,h,h,h,h,h,h,h,h,h,h),h,B.aka,new A.arn(i),new A.aro(i),B.cm,B.jK),h)],o),B.o,h,B.u,B.n)
+p=A.bF(A.a([q,new A.du(new A.al(0,175,0,1/0),A.aDj(p,i.w,A.awY(h,h,h,h,h,h,h,h,!0,h,h,h,h,i.x,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,!1,h,h,h,"Your Mobile Number",h,h,h,h,h,h,h,h,h,h,h,h,h),h,B.aka,new A.arn(i),new A.aro(i),B.cm,B.jK),h)],o),B.o,h,B.u,B.n)
 q=i.d
 n=q>=0
 m=n?B.Ed:B.lk
-l=A.aW("Code",h,h,h,h,h,h,h)
-k=A.aW("We just sent a verification code to your phone: "+i.y+". It may take a minute or two to arrive.",h,h,h,h,h,h,h)
+l=A.aW("Verification",h,h,h,h,h,h,h)
+k=A.aW("We just sent a verification code to your phone "+i.y+". It may take a minute or two to arrive.",h,h,h,h,h,h,h)
 q=q===1&&!0
-q=A.bF(A.a([k,new A.du(new A.al(0,100,0,1/0),A.aDj(q,i.r,A.awY(h,h,h,h,h,h,h,h,!0,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,!1,h,h,h,"Verification Code",h,h,h,h,h,h,h,h,h,h,h,h,h),A.a([$.aHd(),new A.LG(4,h)],t.VS),B.ak9,new A.arp(i),new A.arq(i),B.cm,B.jK),h)],o),B.o,h,B.u,B.n)
+q=A.bF(A.a([k,new A.du(new A.al(0,150,0,1/0),A.aDj(q,i.r,A.awY(h,h,h,h,h,h,h,h,!0,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,!1,h,h,h,"Verification Code",h,h,h,h,h,h,h,h,h,h,h,h,h),A.a([$.aHd(),new A.LG(4,h)],t.VS),B.ak9,new A.arp(i),new A.arq(i),B.cm,B.jK),h)],o),B.o,h,B.u,B.n)
 k=i.d>=1
 j=k?B.Ed:B.lk
-return A.by(h,A.bF(A.a([new A.aT(new A.aq(25,0,25,5),e,h),A.dH(new A.CX(A.a([new A.CW(r,p,m,n),new A.CW(l,q,j,k)],t.SV),new A.th(h),B.ajh,s,new A.arr(i),i.gaey(),i.goL(i),i.ga19(),h),1)],o),B.o,h,B.u,B.n),B.j,h,h,h,h,f.a.b*0.95,h,new A.aq(0,25,0,0),h,h,h)},
+return A.by(h,A.bF(A.a([new A.aT(new A.aq(25,0,25,5),f,h),A.dH(new A.CX(A.a([new A.CW(r,p,m,n),new A.CW(l,q,j,k)],t.SV),new A.th(h),B.ajh,s,new A.arr(i),i.gaey(),i.goL(i),i.ga19(),h),1)],o),B.o,h,B.u,B.n),B.j,h,h,h,h,g.a.b*0.95,h,new A.aq(0,25,0,0),h,h,h)},
 a1a(a,b){var s,r,q,p,o=this,n=null
 switch(A.O(a).ay.a.a){case 1:s=B.H
 break
@@ -91753,7 +91753,7 @@ B.jI=new A.fW(B.p)
 B.Ed=new A.qT(2,"complete")
 B.lk=new A.qT(3,"disabled")
 B.ll=new A.qT(4,"error")
-B.ajh=new A.Pc(0,"vertical")
+B.ajh=new A.Pc(1,"horizontal")
 B.aji=new A.vB(1,"blurBackground")
 B.aR=new A.db("")
 B.ra=new A.D0(1,"center")
