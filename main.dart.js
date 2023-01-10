@@ -79975,7 +79975,7 @@ $S:479}
 A.tM.prototype={
 E(a){var s=null,r=this.c
 r=r==null?s:r.j(0)
-return A.Oe(!0,A.eY(A.bG(A.a([B.anQ,B.E7,A.aS(r==null?"page not found":r,s,s,s,s,s,s,s),B.E7,new A.E3(new A.a4N(a),B.anL,s)],t.p),B.p,s,B.aO,B.n),s,s),B.a6,!0)}}
+return A.Oe(!0,A.eY(A.bG(A.a([B.anQ,B.E7,A.aS(r==null?"page not found":r,s,s,s,s,s,s,s),B.E7,new A.E3(new A.a4N(a),B.anM,s)],t.p),B.p,s,B.aO,B.n),s,s),B.a6,!0)}}
 A.a4N.prototype={
 $0(){var s=this.a.K(t.q0).x.d
 s===$&&A.b()
@@ -80526,7 +80526,7 @@ A.IA.prototype={
 E(a){return new A.d8(new A.a_a(B.n_),null)}}
 A.a_a.prototype={
 $2(a,b){var s=null
-return A.kz(A.t2(s,s,!0,s,s,s,1,s,s,s,!1,s,s,s,s,s,!0,s,s,s,s,s,s,B.anK,s,s,84,1,s),A.aBH(new A.OV(Math.max(1,B.e.dX(B.d.b6(b.b,400))),10,10,2.5),new A.a_9(this.a),3,B.u3),s,s,s,!1)},
+return A.kz(A.t2(s,s,!0,s,s,s,1,s,s,s,!1,s,s,s,s,s,!0,s,s,s,s,s,s,B.anL,s,s,84,1,s),A.aBH(new A.OV(Math.max(1,B.e.dX(B.d.b6(b.b,400))),10,10,2.5),new A.a_9(this.a),3,B.u3),s,s,s,!1)},
 $S:65}
 A.a_9.prototype={
 $2(a,b){var s=null,r=this.a[b]
@@ -80627,7 +80627,7 @@ q=A.a2(r).h("ae<1,kF>")
 s=A.t2(m,p,!0,p,p,new A.vO(A.au(new A.ae(r,new A.a1w(),q),!0,q.h("aI.E")),!0,p),1,p,p,p,!1,p,p,p,p,p,!0,p,p,p,p,p,p,n,p,p,s,1,p)
 n=A.bG(A.a([A.e_(A.aBH(new A.OV(B.e.dX(B.d.b6(b.b,175)),10,10,0.7),new A.a1x(o),o.c.length,B.IK),1)],t.p),B.p,p,B.t,B.n)
 q=A.O(a)
-return A.kz(s,n,p,new A.pr(B.Kb,A.O(a).ay.r,q.ay.f,new A.a1y(o,a,b),B.bC,!0,B.ly,B.anO,p),B.GF,!1)},
+return A.kz(s,n,p,new A.pr(B.Kb,A.O(a).ay.r,q.ay.f,new A.a1y(o,a,b),B.bC,!0,B.ly,B.anJ,p),B.GF,!1)},
 $S:65}
 A.a1w.prototype={
 $1(a){return new A.kF(a,null)},
@@ -87699,8 +87699,8 @@ B.H0=new A.k3(4,null,null,null,null,null,null,null)
 B.d2=new A.fg(B.B,null,null,B.H0,null)
 B.anH=new A.cN("Log Out",null,null,null,null,null,null,null,null,null)
 B.GX=new A.fg(B.B,null,null,B.anH,null)
-B.anJ=new A.cN("No song selected",null,null,null,null,null,null,null,null,null)
-B.tl=new A.fg(B.B,null,null,B.anJ,null)
+B.anK=new A.cN("No song selected",null,null,null,null,null,null,null,null,null)
+B.tl=new A.fg(B.B,null,null,B.anK,null)
 B.GY=new A.yE(null,null,null,null,null,null,null,null,null)
 B.GZ=new A.yF(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.m3=new A.dU(B.o)
@@ -88209,8 +88209,8 @@ B.IP=new A.ao(20,0,0,0)
 B.anR=new A.cN("#",null,null,null,null,null,null,null,null,null)
 B.Zg=new A.aU(B.IP,B.anR,null)
 B.I0=new A.ii(B.Zg,!1)
-B.anN=new A.cN("Title",null,null,null,null,null,null,null,null,null)
-B.tM=new A.ii(B.anN,!1)
+B.anO=new A.cN("Title",null,null,null,null,null,null,null,null,null)
+B.tM=new A.ii(B.anO,!1)
 B.IC=new A.ao(0,0,10,0)
 B.EC=new A.cN("Length",null,null,null,null,null,null,null,null,null)
 B.Zh=new A.aU(B.IC,B.EC,null)
@@ -88270,8 +88270,8 @@ B.jP=new A.de(16,"ZWJ")
 B.rr=new A.de(17,"WSegSpace")
 B.EO=new A.de(18,"Unknown")
 B.Ou=A.a(s([B.ro,B.dG,B.b_,B.lu,B.lv,B.rs,B.jQ,B.apA,B.jR,B.jS,B.bD,B.rp,B.rq,B.jO,B.bX,B.lt,B.jP,B.rr,B.EO]),A.ap("y<de>"))
-B.anM=new A.cN("Date",null,null,null,null,null,null,null,null,null)
-B.I_=new A.ii(B.anM,!0)
+B.anN=new A.cN("Date",null,null,null,null,null,null,null,null,null)
+B.I_=new A.ii(B.anN,!0)
 B.anT=new A.cN("Event",null,null,null,null,null,null,null,null,null)
 B.HW=new A.ii(B.anT,!1)
 B.anI=new A.cN("Location",null,null,null,null,null,null,null,null,null)
@@ -92151,11 +92151,11 @@ B.amT=new A.A(!0,B.l,null,"Roboto",null,null,null,null,null,null,null,null,null,
 B.amx=new A.A(!0,B.l,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.anG=new A.f8(B.amg,B.anp,B.an8,B.al1,B.an0,B.am9,B.ant,B.als,B.alT,B.amW,B.akX,B.ana,B.amZ,B.amT,B.amx)
 B.Ey=new A.Dj(1,"longestLine")
-B.anK=new A.cN("ARTISTS",null,null,null,null,null,null,null,null,null)
+B.anJ=new A.cN("REDEEM DISCOUNTS",null,null,null,null,null,null,null,null,null)
+B.anL=new A.cN("ARTISTS",null,null,null,null,null,null,null,null,null)
 B.Ez=new A.cN("Home",null,null,null,null,null,null,null,null,null)
 B.amp=new A.A(!0,B.l,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.anL=new A.cN("Go to home page",null,B.amp,null,null,null,null,null,null,null)
-B.anO=new A.cN("Redeem rewards",null,null,null,null,null,null,null,null,null)
+B.anM=new A.cN("Go to home page",null,B.amp,null,null,null,null,null,null,null)
 B.anQ=new A.cN("Page Not Found",null,B.rd,null,null,null,null,null,null,null)
 B.EB=new A.cN("-",null,null,null,null,null,null,null,null,null)
 B.anU=new A.cN("COUPONS",null,null,null,null,null,null,null,null,null)
