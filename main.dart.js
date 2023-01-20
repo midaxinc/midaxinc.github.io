@@ -82119,7 +82119,7 @@ A.N6.prototype={
 G(a){return new A.eq(new A.aaf(this),null)}}
 A.aaf.prototype={
 $2(a,b){var s=null,r=this.a
-return A.qZ(A.a0f(s,s,s,B.aoC,84),A.aDI(new A.Qz(Math.max(1,B.e.dH(B.d.b7(b.b,400))),10,10,2.5),new A.aae(r),J.bm(r.c),B.K1),s,s,s,!1)},
+return A.qZ(A.a0f(s,s,s,B.aoC,a.K(t.w).f.a.b<700?39.199999999999996:56),A.aDI(new A.Qz(Math.max(1,B.e.dH(B.d.b7(b.b,400))),10,10,2.5),new A.aae(r),J.bm(r.c),B.K1),s,s,s,!1)},
 $S:78}
 A.aae.prototype={
 $2(a,b){var s=null
@@ -82845,7 +82845,7 @@ $1(a){return this.Vl(a)},
 Vl(a){var s=0,r=A.T(t.nL),q
 var $async$$1=A.O(function(b,c){if(b===1)return A.Q(c,r)
 while(true)switch(s){case 0:s=3
-return A.M(A.nv(A.cl(0,0,3),new A.ax7(),t.P),$async$$1)
+return A.M(A.nv(A.cl(0,500,0),new A.ax7(),t.P),$async$$1)
 case 3:q=A.a([new A.hJ("1","QuikStop Norfolk","https://midaxinc.github.io/images/locations/1.jpg"),new A.hJ("2","ShopSmart Cape Charles","https://midaxinc.github.io/images/locations/2.jpg"),new A.hJ("3","ShopSmart Virginia Beach","https://midaxinc.github.io/images/locations/3.jpg")],t.Zv)
 s=1
 break
