@@ -43785,7 +43785,7 @@ q=p?B.DF:B.l5
 m=A.c2("Verification",d,d,d,d,d,d,d)
 l=e.a.d
 k=e.cx
-k=A.c2(!l?"We just sent a verification code to your phone "+k+". It may take a minute or two to arrive.":"Verification Code sent to "+k,d,d,d,d,d,d,d)
+k=A.c2(!l?"We just sent a verification code to your phone "+k+". It may take a minute to arrive.":"Verification Code sent to "+k,d,d,d,d,d,d,d)
 i=e.at
 i===$&&A.b()
 h=A.ko(d,d,d,d,d,d,d,d,d,d,d,18,d,d,B.bb,d,d,!0,d,2,d,d,d,d,d,d)
